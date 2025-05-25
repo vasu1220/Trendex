@@ -1,0 +1,2 @@
+# Trendex
+crypto platform
